@@ -1,7 +1,7 @@
 # AndroidLocationLib
 Android定位，基于百度基础定位sdk封装。可直接使用。
 
-<img src="/device-screenshot" alt="Demo Screen Capture" width="296px" height="581px" />
+<img src="/device-screenshot.png" alt="Demo Screen Capture" width="296px" height="581px" />
 
 ###Useage
 
