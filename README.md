@@ -3,7 +3,7 @@ Android定位，基于百度基础定位sdk封装。可直接使用。
 
 <img src="/device-screenshot.png" alt="Demo Screen Capture" width="296px" height="581px" />
 
-###Useage
+### Useage
 
 **1**. build.gradle 文件中替换你的appkey
 ```
